@@ -36,7 +36,7 @@
 <img width="655" height="60" alt="web№17_2" src="https://github.com/user-attachments/assets/915502c8-7d78-4b98-aae2-3519a4545167" /><br>
 18)Образ создан<br>
 <img width="1090" height="134" alt="web№18" src="https://github.com/user-attachments/assets/54411e48-83cb-456f-9ad9-48ea1cff58a5" /><br>
-19)Запущенный образ
+19)Запущенный образ<br>
 <img width="800" height="194" alt="web№19" src="https://github.com/user-attachments/assets/f0111d30-6a14-41c1-9501-701b4a2446ef" />
 20)Докерфайл с cowsay и fortune
 <img width="1093" height="356" alt="web№20" src="https://github.com/user-attachments/assets/ccfe2db5-543b-4213-9798-c802e0bd7347" />
